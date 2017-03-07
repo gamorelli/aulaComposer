@@ -1,0 +1,16 @@
+{
+"name": "gamorelli/aulaComposer",
+"description": "Aula Composer",
+"homepage": "https://github.com/gamorelli",
+"license": "MIT",
+"keywords": ["test", "composer"],
+"require":{
+  "php": ">=5.6",
+},
+  "authors": [
+{
+  "name": "Gabriela Morelli",
+  "email": "ga.morelli@hotmail.com"
+}
+]
+}
